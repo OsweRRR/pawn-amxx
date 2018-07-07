@@ -35,7 +35,7 @@ public plugin_cfg()
 	plugin_sql()
 }
 
-public plugin_sql()
+public plugin_sql() // Thx Sugisaki
 {
 	new errno, error[64]
 	SQL_Conn = SQL_Connect(SQL_Tuple, errno, error, charsmax(error))
