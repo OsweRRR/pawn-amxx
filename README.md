@@ -1,3 +1,3 @@
 # pawn-amxx
 
-Aqui subire todas las cosas que haga para este lenguaje.
+Aqui subire todas las cosas que haga y modifique para este lenguaje.
