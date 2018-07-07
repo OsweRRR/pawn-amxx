@@ -106,7 +106,7 @@ public DataHandled(failstate, Handle:query, error[], errnum, data[], size, Float
 			new id = data[0]
 			if(SQL_NumResults(query) > 0)
 			{
-				server_print("Hola: %s", SQL_ReadResult(query, 0))
+				server_print("Hola: %d", SQL_ReadResult(query, 0))
 				SQL_FreeHandle(query)
 				server_print("El usuario <%s> ya estaba registrado.", g_iUserName[id])
 				g_isPlaying[id] = true
