@@ -1,0 +1,29 @@
+﻿[es]
+
+PRINT_AD_MESSAGE_1 = Agrega nuestra dirección ip a favoritos ^474.91.112.2:27012^1
+PRINT_AD_MESSAGE_2 = Para ver tus estadísticas escribe ^4rankstats^1 ó presiona la tecla ^4M^1 luego ^45^1 y ^41^1
+PRINT_AD_MESSAGE_3 = Únete a nuestro grupo de facebook ^4www.facebook.com/groups/lwf.cs^1
+PRINT_AD_MESSAGE_4 = Para ver el top 1 escribe ^4top^1 ó presiona la tecla ^4M^1 luego ^45^1 y ^42^1
+PRINT_AD_MESSAGE_5 = Sigue nuestra Fan Page en facebook ^4www.facebook.com/lwfservers^1
+PRINT_AD_MESSAGE_6 = Para comprar ítems especiales escribe ^4/adrenaline^1 o presiona la tecla ^4M^1 y luego ^44^1
+PRINT_AD_MESSAGE_7 = Si tienes lag reinicia tu internet o verifica que estees descargando algo y pausalo
+PRINT_AD_MESSAGE_8 = Escribe ^4rs^1 ó ^4/rs^1 para reiniciar tu puntuación
+PRINT_AD_MESSAGE_9 = Para comprar administrador escribenos en ^4www.facebook.com/lwfservers^1
+PRINT_AD_MESSAGE_10 = Para ver el top presiona la tecla ^4C^1 en tu teclado
+PRINT_AD_MESSAGE_11 = Para soltar la bandera escribe ^4/dropflag^1 ó presiona la tecla ^4Z^1
+PRINT_AD_MESSAGE_12 = Para abrir el menú de ítems especiales presiona la tecla ^4X^1
+
+[en]
+
+PRINT_AD_MESSAGE_1 = Add our ip address to favorites ^474.91.112.2:27012^1
+PRINT_AD_MESSAGE_2 = To see your statistics write ^4rankstats^1 or press the key ^4M^1 then ^45^1 and ^41^1
+PRINT_AD_MESSAGE_3 = Join our facebook group ^4www.facebook.com/groups/lwf.cs^1
+PRINT_AD_MESSAGE_4 = To see the top 1 write ^4top^1 or press the key ^4M^1 then ^45^1 and ^42^1
+PRINT_AD_MESSAGE_5 = Follow our Fan Page on facebook ^4www.facebook.com/lwfservers^1
+PRINT_AD_MESSAGE_6 = To buy special items write ^4/adrenaline^1 or press the key ^4M^1 and later ^44^1
+PRINT_AD_MESSAGE_7 = If you have lag restart your internet or verify that you are downloading something and pause it
+PRINT_AD_MESSAGE_8 = Write ^4rs^1 or ^4/rs^1 to reset your score
+PRINT_AD_MESSAGE_9 = To buy an administrator, write us at ^4www.facebook.com/lwfservers^1
+PRINT_AD_MESSAGE_10 = To see the top press the key ^4C^1 on your keyboard
+PRINT_AD_MESSAGE_11 = To drop the flag write ^4/dropflag^1 or press the key ^4Z^1
+PRINT_AD_MESSAGE_12 = To open the menu of special items press the key ^4X^1
